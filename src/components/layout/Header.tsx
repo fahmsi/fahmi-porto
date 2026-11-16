@@ -75,6 +75,15 @@ export default function Header() {
           )}
 
           <a
+            href="/resume/fahmi-muhammad-al-hafizh.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-editorial-text transition-colors font-medium py-1"
+          >
+            Resume
+          </a>
+
+          <a
             href="mailto:work.fahmialhafizh@gmail.com"
             className="inline-flex items-center gap-1.5 text-editorial-text hover:text-editorial-accent transition-colors font-medium py-1"
           >

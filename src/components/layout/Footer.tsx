@@ -27,15 +27,6 @@ export default function Footer() {
           >
             Resume
           </a>
-          <span className="text-editorial-border">•</span>
-          <a
-            href="https://instagram.com/fahmi.alhafizh/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-editorial-text transition-colors"
-          >
-            Instagram
-          </a>
         </div>
 
         <p className="text-editorial-muted font-mono text-xs">

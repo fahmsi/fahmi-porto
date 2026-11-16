@@ -18,20 +18,20 @@ export default function HeroIntro() {
         {/* Hero Headline */}
         <div className="space-y-4">
           <h1 className="font-serif text-2xl sm:text-3xl text-editorial-text font-normal leading-tight tracking-tight">
-            I’m Fahmi — Information Systems, UI/UX Design &amp; Product Analysis.
+            I’m Fahmi — Information Systems, UI/UX Design, Product &amp; Business Analysis.
           </h1>
 
           <p className="text-base sm:text-lg text-editorial-secondary leading-relaxed font-normal">
-            Information Systems graduate (GPA 3.74/4.00) from STT Terpadu Nurul Fikri focused on System Analysis, UI/UX Design, and Product &amp; Business Analysis. Experienced in analyzing user requirements, system documentation, website development, Agile workflows, and software testing.
+            Information Systems graduate (IPK 3,74/4,00, STT Terpadu Nurul Fikri) based in Sukmajaya, Depok. Experienced in academic and applied projects spanning user requirement analysis, system documentation, website development, Agile methods, and application testing.
           </p>
 
           <div className="flex flex-wrap items-center gap-4 text-xs text-editorial-muted pt-1">
             <span className="inline-flex items-center gap-1.5">
               <MapPin className="w-3.5 h-3.5 text-editorial-accent" />
-              <span>Sukmajaya, Depok, Indonesia</span>
+              <span>Sukmajaya, Depok</span>
             </span>
             <span className="w-1 h-1 rounded-full bg-editorial-border" />
-            <span>S1 Sistem Informasi (IPK 3,74) · STT-NF</span>
+            <span>S1 Sistem Informasi · IPK 3,74</span>
           </div>
         </div>
 
@@ -42,6 +42,14 @@ export default function HeroIntro() {
             className="px-5 py-2.5 bg-editorial-text text-editorial-bg hover:bg-editorial-accent transition-colors font-medium text-xs rounded tracking-wide shadow-sm"
           >
             View Work
+          </a>
+          <a
+            href="/resume/fahmi-muhammad-al-hafizh.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-5 py-2.5 bg-white border border-editorial-border text-editorial-text hover:border-editorial-accent hover:text-editorial-accent transition-colors font-medium text-xs rounded tracking-wide"
+          >
+            Resume
           </a>
           <a
             href="mailto:work.fahmialhafizh@gmail.com"

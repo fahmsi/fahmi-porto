@@ -23,21 +23,20 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    default: "Fahmi Muhammad Al Hafizh — Information Systems, UI/UX Design, Product & Business Analysis",
+    default: "Fahmi Muhammad Al Hafizh",
     template: "%s | Fahmi Muhammad Al Hafizh",
   },
   description:
-    "Personal portfolio of Fahmi Muhammad Al Hafizh, Information Systems graduate (GPA 3.74/4.00) from STT Terpadu Nurul Fikri focused on System Analysis, UI/UX Design, and Product & Business Analysis.",
+    "Personal portfolio of Fahmi Muhammad Al Hafizh — Information Systems, UI/UX Design, Product & Business Analysis (STT Terpadu Nurul Fikri, Sukmajaya, Depok). Transforming user and business needs into structured digital solutions.",
   keywords: [
     "Fahmi Muhammad Al Hafizh",
     "Information Systems",
-    "System Analyst",
-    "UI/UX Designer",
+    "UI/UX Design",
     "Product Analysis",
-    "Business Analyst",
+    "Business Analysis",
+    "System Analyst",
     "Web Developer",
     "Laravel",
-    "Figma",
     "Agile",
     "Sukmajaya",
     "Depok",
@@ -51,14 +50,14 @@ export const metadata: Metadata = {
     url: "https://fahmialhafizh.com",
     title: "Fahmi Muhammad Al Hafizh — Information Systems, UI/UX Design, Product & Business Analysis",
     description:
-      "Information Systems graduate (GPA 3.74/4.00) focused on System Analysis, UI/UX Design, and Product & Business Analysis.",
+      "Information Systems, UI/UX Design, Product & Business Analysis. Transforming user and business needs into structured digital solutions.",
     siteName: "Fahmi Muhammad Al Hafizh Portfolio",
   },
   twitter: {
     card: "summary_large_image",
     title: "Fahmi Muhammad Al Hafizh — Information Systems, UI/UX Design, Product & Business Analysis",
     description:
-      "Information Systems graduate (GPA 3.74/4.00) focused on System Analysis, UI/UX Design, and Product & Business Analysis.",
+      "Information Systems, UI/UX Design, Product & Business Analysis. Transforming user and business needs into structured digital solutions.",
   },
   robots: {
     index: true,

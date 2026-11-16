@@ -59,6 +59,14 @@ export default function StickyHeader() {
                         View Work
                     </a>
                     <a
+                        href="/resume/fahmi-muhammad-al-hafizh.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="px-4 py-1.5 text-editorial-text hover:text-black transition-colors font-medium text-sm"
+                    >
+                        Resume
+                    </a>
+                    <a
                         href="mailto:work.fahmialhafizh@gmail.com"
                         className="px-4 py-1.5 bg-editorial-text text-editorial-bg hover:bg-black/80 transition-colors font-medium text-sm rounded-lg"
                     >
