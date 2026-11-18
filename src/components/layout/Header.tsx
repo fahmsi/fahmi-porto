@@ -8,7 +8,7 @@ import { ArrowLeft, Mail } from "lucide-react";
 import ProtectedCanvasImage from "../profile/ProtectedCanvasImage";
 export default function Header() {
   const pathname = usePathname();
-  const isCaseStudy = pathname.startsWith("/work/");
+  const isCaseStudy = pathname.startsWith("/work/") || pathname.startsWith("/projects/");
   const [isScrolled, setIsScrolled] = useState(false);
 
   useEffect(() => {

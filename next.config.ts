@@ -12,6 +12,16 @@ const nextConfig: NextConfig = {
         destination: "/resume/fahmi-muhammad-al-hafizh.pdf",
         permanent: false,
       },
+      {
+        source: "/work/maritimate",
+        destination: "/projects/maritimate",
+        permanent: false,
+      },
+      {
+        source: "/work/sustainable-blue-economy",
+        destination: "/projects/maritimate",
+        permanent: false,
+      },
     ];
   },
 };

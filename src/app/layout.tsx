@@ -22,6 +22,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://fahmialhafizh.com"),
   title: {
     default: "Fahmi Muhammad Al Hafizh",
     template: "%s | Fahmi Muhammad Al Hafizh",
